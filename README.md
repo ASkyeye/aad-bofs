@@ -1,0 +1,1 @@
+This repository contains a collection of BOFs for various Azure AD attacks. All the bofs have been battle-tested during engagements. Please also feel free to contribute :)
